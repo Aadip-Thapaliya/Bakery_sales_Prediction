@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Bakery sales prediction
 
 ## Repository Link
 
